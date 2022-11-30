@@ -1,8 +1,10 @@
-package com.christian.myquote;
+package com.christian.myquote.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.christian.myquote.R;
 
 public class MainActivity extends AppCompatActivity {
 
